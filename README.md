@@ -9,3 +9,4 @@
 ### Modelo de regressão linear
 * S1A3 - Regressão Linear
 [![Regressão Linear](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoseWRPereira/notebooks/blob/main/regressao_linear/regressao_linear.ipynb)
+
